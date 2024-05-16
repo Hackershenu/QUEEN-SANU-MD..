@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/970941736cb44fe78ae56.jpg" width="540" height="70" />
+<img src="https://telegra.ph/file/970941736cb44fe78ae56.jpg" width="540" height="90" />
 </p>         🤍QUEEN-SANU-MD🤍
 
 ### Setup
