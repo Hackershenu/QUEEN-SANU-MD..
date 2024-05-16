@@ -1,9 +1,9 @@
-* @project_name DARK-MD
-* @authors Dark Shenuwa & Alfa
+* @project_name QUEEN SANU-MD
+* @authors Dark Shenuwa & Dark Alfa
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/Hackershenu/Hackershenu
 * @version 1.0.0
-© 2024 Dark Shenu, Alfa. All rights reserved.
+© 2024 Dark Shenuwa,Dark Alfa. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
