@@ -22,11 +22,11 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="බොට්ගේ එක දාන්න"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://prabath--md-official.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## QR CODE SCAN
 
-<a href="බොට්ගේ එක දාන්න"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://prabath--md-official.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)]([https://dashboard.heroku.com/new?template=https://github.com/Hackershenu/Hackershenu)
